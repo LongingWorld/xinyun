@@ -27,7 +27,7 @@ type Gauge struct {
 	CompletionTime int
 	Guidance       string
 	Status         int
-	templateID     int
+	TemplateID     int
 	CreatedTime    string
 	UpdatedTime    string
 	DeletedTime    string
